@@ -349,6 +349,6 @@ reactive.inTransaction(() => {
 [ReactiveChart](https://reactivechart.com)
 
 
-#API
+# API
 
-https://reactivechart.com/public/api/chart/modules/_index_.chart.html
+https://reactivechart.com/public/api/reactive/index.html

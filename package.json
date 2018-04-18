@@ -15,6 +15,10 @@
     "email": "christoph@rodak.li",
     "name": "Christoph Rodak"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reactivelib/reactive.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.0.10",
